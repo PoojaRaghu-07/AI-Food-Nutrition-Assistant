@@ -80,7 +80,7 @@ AI-Food-Nutrition-Assistant
 Clone the repository:
 
 ```bash
-git clone https://github.com/PAVAN-9912/AI-Food-Nutrition-Assistant.git
+git clone https://github.com/PoojaRaghu-07/AI-Food-Nutrition-Assistant.git
 ```
 
 Go to the project directory:
